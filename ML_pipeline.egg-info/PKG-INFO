@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ML-pipeline
+Version: 0.0
+Summary: pipeline of model
+Author: rahul bhole
+Author-email: rahulbhole1230@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
